@@ -72,9 +72,6 @@ public class ConvertirLongitudes {
 			ConvertirPulgadaAPie1(entrada);
 			break;
 		
-		}
-		
+		}		
 	}
-	
-
 }

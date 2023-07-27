@@ -115,9 +115,6 @@ public class ConvertirMonedas {
 		case "De Won Surcoreano a Pesos":
 			ConvertirWonAPesos(entrada);
 			break;
-		}
-		
+		}		
 	}
-	
-
 }
