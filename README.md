@@ -2,11 +2,14 @@
 
 ## :pencil: Descripción del proyecto :pencil:
 El proyecto consiste en un conversor que permite tener una interacción con los usuarios mediante una interfaz gráfica creada en lenguaje JAVA.
+
 Dentro Podremos encontrar 2 tipos de converciones, una de Divisas y otra de Longitudes.
 
 ## :wrench: Funcionalidades :wrench:
 Dentro de las funcionalidades de Divisas podremos convertir de Pesos Argentinos a Dólares, Euros, Libras Esterlinas, Yenes Japoneses y Wones Surcoreanos. Asi mismo podremos hacer la convertibilidad inversa.
+
 En cuanto a las funcionalidades de Longitudes podremos interactuar todos los cambios entre Metros, Pulgadas y Pies.
+
 Luego de obtener el resultado buscado podremos volver a realizar una nueva conversion o dar por terminada la tarea.
 
 ## :computer: ¿Cómo usar el Conversor ? :computer:
